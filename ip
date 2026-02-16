@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "proxyIP": "192.0.63.235",
+  "portRemote": 443,
+  "colo": "HKG",
+  "responseTime": "1320ms",
+  "message": "第3次验证有效ProxyIP",
+  "timestamp": "2025-06-03T17:21:25.045Z"
+}
